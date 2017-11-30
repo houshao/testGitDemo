@@ -1,8 +1,7 @@
 package com.bean;
 
 public class Person {
-a
-	b
-	n
-	m
+	public void ad(){
+		int a,b,c;
+	}
 }
