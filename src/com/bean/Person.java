@@ -2,6 +2,7 @@ package com.bean;
 
 public class Person {
 	public void ad(){
-		int a,b,c;
+		int a,b,c,d;
+		
 	}
 }
