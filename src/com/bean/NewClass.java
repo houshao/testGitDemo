@@ -1,5 +1,5 @@
 package com.bean;
 
 public class NewClass {
-	//测试田间新的项目
+	//测试添加新的项目
 }
